@@ -1,4 +1,4 @@
-# Dual-Horizon LSTM–TCN (XAUUSD 5m) — Train + Live CSV Inference
+# Dual-Horizon LSTM–TCN (XAUUSD) — Train + Live CSV Inference
 
 This project trains and runs a **dual-head** deep model on **5-minute XAUUSD bars** plus daily macro proxies (DXY, SPX):
 
